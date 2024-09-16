@@ -1,0 +1,40 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.buildlog/
+.flutter-plugins
+.flutter-plugins-deps
+.packages
+.pub/
+build/
+ios/Flutter/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Pods/
+ios/Podfile.lock
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/local.properties
+*.iml
+*.hprof
+*.log
+*.tmp
+*.swp
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.ntvs_analysis.dat
+*.ncb
+*.tlog
+*.gradle
+*.lock
+
+# Others
+*.apk
+*.aab
+*.jks
+*.keystore
